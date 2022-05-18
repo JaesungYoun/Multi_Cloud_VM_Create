@@ -1,0 +1,103 @@
+{ 
+"cloud_platform_count" : 3,
+"all_vm_count": 6,
+"cloud":  [  
+ { "cloud_type": "OPENSTACK",
+        "vm_count": 2,
+      "auth":{
+          "os_auth_url": "http://192.168.1.85:5000/v3",
+          "os_username" : "admin",
+          "os_password" : "43420055bffd4338",
+          "os_region_name" : "RegionOne",
+          "os_project_name" : "admin",
+          "os_user_domian_name" : "Default",
+          "os_project_domain_name" : "Default"
+        },
+       "vm":[
+        {
+          "vm_name": "js-lin",
+          "flavor": 3,
+          "os":"linux",
+          "image":"centos7",
+          "key_name":"js-key",
+          "floatingIp": "O",
+          "disk_name": "js-lin-disk",
+          "disk_size": 4
+         },
+         {
+          "vm_name": "js-win",
+          "flavor": 3,
+          "os":"windows",
+          "image":"win2012",
+          "key_name":"js-key",
+          "floatingIp": "O",
+          "disk_name": "js-win-disk",
+          "disk_size": 4
+         }
+       ]
+    },
+
+     {"cloud_type": "GCP",
+      "vm_count": 2,
+      "auth":{
+        "account_key": "js-project-347001-45e179a75fd6.json"
+      },
+      "vm":[
+      {     
+        "vm_name": "js-lin",
+        "userName" : "jaesung",
+        "cpu": 2,
+        "os": "linux",
+        "memory": 8,
+        "image": "ubuntu18",
+        "zone": "asia-northeast3-a",
+        "disk_name": "js-lin-disk4",
+        "disk_size": "15",
+        "disk_num": 2
+      },
+      {
+        "vm_name": "js-win",
+        "userName" : "jaesung",
+        "cpu": 2,
+        "os": "windows",
+        "memory": 8,
+        "image": "win2016",
+        "zone": "asia-northeast3-a",
+        "disk_name": "js-win-disk4",
+        "disk_size": "15",
+        "disk_num": 2
+      }
+    ]
+    },
+      {"cloud_type": "NCP",
+      "vm_count": 2,
+      "auth":{
+        "access_key":"CACA76B0AB062B72D9DE",
+        "secret_key":"42601F9D0867131807DB9EA712947B7860DF937F",
+        "login_key": "naver-key"
+      },
+      "vm":[
+      {
+        "vm_name": "js-linux1",
+        "zone": "KR",
+        "os" : "linux",
+        "vpcName": "js-vpc",
+        "subnetName": "js-sub",
+        "scriptName" : "js-linux",
+        "associateWithPublicIp": "true"
+      },
+      {
+        "vm_name": "js-win1",
+        "zone": "KR",
+        "os" : "windows",
+        "vpcName": "js-vpc",
+        "subnetName": "js-sub",
+        "scriptName" : "js-windows",
+        "associateWithPublicIp": "true"
+      }
+    ]
+   }
+  ]
+}
+
+  
