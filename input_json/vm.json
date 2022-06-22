@@ -1,0 +1,63 @@
+{ 
+"cloud_platform_count" : 2,
+"all_vm_count": 4,
+"cloud":  [  
+     {"cloud_type": "GCP",
+      "vm_count": 2,
+      "vm":[
+      {     
+        "account_key": "js-project-347001-45e179a75fd6.json",
+        "vm_name": "js-linux",
+        "userName" : "jaesung",
+        "cpu": 2,
+        "os": "linux",
+        "memory": 8,
+        "image": "centos7",
+        "zone": "asia-northeast3-a",
+        "disk_name": "js-linux-disk",
+        "disk_size": "15",
+        "disk_num": 2
+      },
+      {
+        "account_key": "zcontest-296204-4b3783edaffb.json",
+        "vm_name": "js-windows",
+        "userName" : "jaesung",
+        "cpu": 2,
+        "os": "windows",
+        "memory": 8,
+        "image": "win2016",
+        "zone": "asia-northeast3-a",
+        "disk_name": "js-windows-disk",
+        "disk_size": "15",
+        "disk_num": 2
+      }
+    ]
+    },
+      {"cloud_type": "NCP",
+      "vm_count": 2,
+      "auth":{
+        "login_key": "naver-key"
+      },
+      "vm":[
+      {
+        "vm_name": "js-linux",
+        "os" : "linux",
+        "image": "centos7",
+        "vpcName": "js-vpc",
+        "subnetName": "js-sub",
+        "scriptName" : "js-linux"
+      },
+      {
+        "vm_name": "js-windows",
+        "os" : "windows",
+        "image": "win2016",
+        "vpcName": "js-vpc",
+        "subnetName": "js-sub",
+        "scriptName" : "js-windows"
+      }
+    ]
+   }
+  ]
+}
+
+  
