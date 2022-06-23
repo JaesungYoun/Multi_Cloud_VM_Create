@@ -1,8 +1,8 @@
 # ☁ Multi_Cloud_VM_Create
 
-**Create Virtual Machines on Multi Cloud Platform simultaneously**
+**멀티 클라우드 인스턴스 생성 모듈**
 
-## 📄 Contents
+## 📄 Contents   
 클라이언트가 인스턴스가 생성될 클라우드 플랫폼과 인스턴스(VM)에 대한 정보를 json 형식의 파일에 입력하고   
 스크립트를 실행하면 자동으로 원하는 클라우드 플랫폼(GCP,NCP,OpenStack)에 인스턴스(VM)이 생성됨.
 
