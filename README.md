@@ -2,7 +2,7 @@
 
 **멀티 클라우드(GCP, NCP, OpenStack) 인스턴스 생성 모듈**
 
-![image](https://user-images.githubusercontent.com/73388615/175311471-4b09ac4e-8729-4a3d-8f63-daf2a685e95a.png)
+![image](https://user-images.githubusercontent.com/73388615/175311471-4b09ac4e-8729-4a3d-8f63-daf2a685e95a.png){: width="50%" height="50%"}
 
 
 
