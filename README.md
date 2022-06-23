@@ -11,6 +11,12 @@
 
 
 
+ref. 
+[Google Cloud](https://cloud.google.com/sdk/gcloud?hl=ko) 
+[Naver Cloud](https://cli.ncloud-docs.com/docs/ko/home)
+[Openstack](https://docs.openstack.org/python-openstackclient/latest/cli/index.html) 
+
+
 
 
 
