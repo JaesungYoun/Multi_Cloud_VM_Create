@@ -12,5 +12,5 @@ Create Virtual Machines to Multi Cloud Platform simultaneously
 
 
 <span style="color:#b68834">Red Text</span>
-
+<span style="background-color:red">빨간 글씨</span>
 #### <span style="color:red">[인스턴스(VM) 생성 가이드](https://traveling-cousin-b46.notion.site/Multi-VM-4-18-4-29-855f5b890f7e4e64a9cc4fa42dd603d3)</span>
