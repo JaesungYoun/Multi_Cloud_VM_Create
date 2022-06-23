@@ -9,9 +9,9 @@ Create Virtual Machines to Multi Cloud Platform simultaneously
 - ncloud : ncloud cli 관련 폴더     
 - src : vm 생성 스크립트 및 init script 폴더       
 
-```html
-<span style="color: green"> Some green text </span>
-```
+
+
+
 
 
 
