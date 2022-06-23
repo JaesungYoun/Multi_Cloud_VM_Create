@@ -7,7 +7,7 @@ Create Virtual Machines to Multi Cloud Platform simultaneously
 - guide : 인스턴스(vm) 생성 CLI 활용 예시 및 가이드 폴더   
 - input_json : 사용자가 입력할 인스턴스(vm) 정보가 들어있는 json 파일 양식이 들어있는 폴더     
 - ncloud : ncloud cli 관련 폴더     
-- src : vm 생성 스크립트 및 init script 폴더
+- src : vm 생성 스크립트 및 init script 폴더       
 
 <span style="color:Red">빨간 글씨</span>    
 
