@@ -2,7 +2,7 @@
 
 *Create Virtual Machines on Multi Cloud Platform simultaneously*
 
-## 📄 Content   
+## 📄 Contents
 클라이언트가 생성하고자 하는 인스턴스(VM)에 대한 정보를 .json 형식의 파일에 입력하고     
 스크립트만 실행하면 자동으로 GCP,NCP,Openstack에 인스턴스(VM)이 생성됨
 
