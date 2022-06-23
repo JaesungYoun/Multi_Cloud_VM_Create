@@ -9,8 +9,8 @@ Create Virtual Machines to Multi Cloud Platform simultaneously
 - ncloud : ncloud cli 관련 폴더     
 - src : vm 생성 스크립트 및 init script 폴더       
 
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
-
-<span style="color:">Red Text</span>
+<p style="color:">Red Text</p>
 <span style="color:red">붉은 색</span>
 #### <span style="color:red">[인스턴스(VM) 생성 가이드](https://traveling-cousin-b46.notion.site/Multi-VM-4-18-4-29-855f5b890f7e4e64a9cc4fa42dd603d3)</span>
