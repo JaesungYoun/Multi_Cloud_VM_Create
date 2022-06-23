@@ -13,7 +13,7 @@
 
 **gcloud_install** : gcloud CLI 설치 관련 스크립트 폴더    
 **guide** : 인스턴스(VM) 생성 CLI 활용 예시 및 가이드 폴더   
-**input_json** : 클라이언트가 입력할 인스턴스(VM) 정보가 들어있는 JSON 형식의  양식이 들어있는 폴더     
+**input_json** : 클라이언트가 입력할 인스턴스(VM) 정보가 들어있는 JSON 형식의 파일 양식이 들어있는 폴더     
 **ncloud** : ncloud CLI 관련 폴더     
 **src** : 인스턴스(VM) 생성 스크립트 및 init script 폴더       
 
