@@ -2,6 +2,10 @@
 
 **멀티 클라우드(GCP, NCP, OpenStack) 인스턴스 생성 모듈**
 
+![image](https://user-images.githubusercontent.com/73388615/175311471-4b09ac4e-8729-4a3d-8f63-daf2a685e95a.png)
+
+
+
 ## 📄 Contents   
 클라이언트가 인스턴스가 생성될 클라우드 플랫폼과 인스턴스(VM)에 대한 정보를 json 형식의 파일에 입력하고   
 스크립트를 실행하면 자동으로 원하는 클라우드 플랫폼(GCP,NCP,OpenStack)에 인스턴스(VM)이 생성됨.
