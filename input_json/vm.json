@@ -40,7 +40,7 @@
       "vm_count": 2,
       "vm":[
       {     
-        "account_key": "js-project-347001-45e179a75fd6.json",
+        "account_key": "jsxxxxxxxxxxxxxx.json",
         "vm_name": "js-linux",
         "userName" : "jaesung",
         "cpu": 2,
@@ -53,7 +53,7 @@
         "disk_num": 2
       },
       {
-        "account_key": "zcontest-296204-4b3783edaffb.json",
+        "account_key": "xxxxxxxxxxxx.json",
         "vm_name": "js-windows",
         "userName" : "jaesung",
         "cpu": 2,
